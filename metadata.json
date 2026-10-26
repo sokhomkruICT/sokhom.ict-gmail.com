@@ -1,0 +1,6 @@
+{
+  "name": "សាលាឌីជីថល - School Management System",
+  "description": "Comprehensive school management system featuring teacher and student management, grading, attendance tracking, parent notification reports, administrative documents, and Google Sheets synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
